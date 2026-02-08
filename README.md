@@ -1,16 +1,6 @@
 # flutter_car_installmemt_app
 
-A new Flutter project.
+#แอปสำหรับคำนวณค่าผ่อนรถ
+<img width="/250" src="https://github.com/user-attachments/assets/b37d3378-4b4c-4ea0-8b6d-dd65c408d9c3" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/user-attachments/assets/c8e1e109-6a4c-4fa8-9c49-00c5cdfd8c84" />
